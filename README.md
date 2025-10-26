@@ -8,7 +8,7 @@ The goal of this assignment is to create a Git repository, make changes to the c
 Steps l took to create this repository 
  l didn't download  GitHub  but instead  l was using  it on my browser 
  Created a new Git repository on GitHub.
- Added files to the repository.l added  my  last programming language assignment 
+ Added files to the repository.l added   a code a personalized game /story 
  Committed the changes 
  Pushed the changes to GitHub.
  Made the repository public.
